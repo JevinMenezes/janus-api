@@ -1,9 +1,9 @@
-# JanusAPI
+# Janus API
 ## RESTful implementation using MongoDB and Flask in Python
 
-Following packages/software are required for this project:  
+Technologies used:  
 
-* Mongo DB (download it here: [MongoDB Download Center](https://www.mongodb.com/download-center))
+* Mongo DB
 * Python packages:
     * flask
     * Flask-PyMongo
