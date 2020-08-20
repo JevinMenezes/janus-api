@@ -1,2 +1,2 @@
 Contributors:
-Jevin (https://github.com/JevinMenezes) [Pythonista, who loves to interact in a snake's hissing way, when the essential packages are available! (Pun intended!)]
+Jevin (https://github.com/JevinMenezes)
